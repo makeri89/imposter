@@ -2,9 +2,9 @@
   "name": "imposter",
   "displayName": "imPoster",
   "description": "automate your coding",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "MarkusKaihola",
-  "repository": "https://github.com/makeri89/autocoder",
+  "repository": "https://github.com/makeri89/imposter",
   "engines": {
     "vscode": "^1.67.0"
   },
@@ -12,24 +12,24 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:autocoder.start"
+    "onCommand:imposter.start"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "autocoder.backspace",
+        "command": "imposter.backspace",
         "title": "Backspace"
       },
       {
-        "command": "autocoder.start",
+        "command": "imposter.start",
         "title": "Start coding",
-        "category": "autocoder"
+        "category": "imposter"
       }
     ],
     "keybindings": [
       {
-        "command": "autocoder.backspace",
+        "command": "imposter.backspace",
         "key": "ctrl+backspace"
       }
     ]
