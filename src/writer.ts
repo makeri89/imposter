@@ -36,7 +36,7 @@ export const start = (context: vscode.ExtensionContext) => {
   if (!root) {
     return;
   }
-  const filePath = path.join(root, 'data');
+  const filePath = path.join(root, 'ip-data');
   vscode.window.showInputBox({
     prompt: "Which file do you want use from the data folder?",
     placeHolder: "Type in the name of the file"
