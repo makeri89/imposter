@@ -1,9 +1,10 @@
 {
-  "name": "autocoder",
-  "displayName": "autocoder",
+  "name": "imposter",
+  "displayName": "imPoster",
   "description": "automate your coding",
   "version": "0.0.1",
-  "publisher": "makeri89",
+  "publisher": "MarkusKaihola",
+  "repository": "https://github.com/makeri89/autocoder",
   "engines": {
     "vscode": "^1.67.0"
   },
