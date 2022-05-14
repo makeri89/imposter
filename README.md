@@ -2,7 +2,11 @@
 
 ## !! Disclaimer !!
 
-This project is made as a submission for [Stupid Hack 2022](https://app.hackjunction.com/events/stupid-hack-2022).
+This project was made as a submission for [Stupid Hack 2022](https://app.hackjunction.com/events/stupid-hack-2022).
+
+_UPDATE_
+
+This project was the selected winner of the Stupid Hack 2022 event!!
 
 ## Features
 
