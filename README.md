@@ -12,8 +12,8 @@ With this extension you can get rid of imposter syndrome with ease!
 
 First, install this extension.
 
-Create a folder named `ip-data` in the root directory of your project. Copy or create a file into that directory that you want to automatically write later.
+Create a folder named `ip-data` in the root directory of your project. Copy or create a file into that directory that you want to use later to write another file from.
 
-Open the command palette with `ctrl+shift+p` and find a command `imposter: Start coding` and run it by pressing `Enter`.
+Open an empty file, open the command palette with `ctrl+shift+p` and find a command `imposter: Start coding` and run it by pressing `Enter`.
 
-It will prompt you a file name you want to use, enter a name of a file inside the `ip-data` directory and start typing!
+It will prompt you to enter a file name you want to use, enter a name of a file inside the `ip-data` directory and start typing!

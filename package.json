@@ -2,7 +2,7 @@
   "name": "imposter",
   "displayName": "imPoster",
   "description": "automate your coding",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "MarkusKaihola",
   "repository": "https://github.com/makeri89/imposter",
   "engines": {
