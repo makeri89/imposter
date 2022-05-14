@@ -4,10 +4,6 @@ import * as vscode from "vscode";
 let typeFromFile = false;
 let fileContents: string[];
 
-export const onBackspace = () => {
-  vscode.commands.executeCommand('deleteLeft');
-};
-
 export const advanceWritePoint = () => {
   const editor = vscode.window.activeTextEditor;
 

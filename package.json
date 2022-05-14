@@ -2,7 +2,7 @@
   "name": "imposter",
   "displayName": "imPoster",
   "description": "automate your coding",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "MarkusKaihola",
   "repository": "https://github.com/makeri89/imposter",
   "engines": {
@@ -18,19 +18,9 @@
   "contributes": {
     "commands": [
       {
-        "command": "imposter.backspace",
-        "title": "Backspace"
-      },
-      {
         "command": "imposter.start",
         "title": "Start coding",
         "category": "imposter"
-      }
-    ],
-    "keybindings": [
-      {
-        "command": "imposter.backspace",
-        "key": "ctrl+backspace"
       }
     ]
   },
